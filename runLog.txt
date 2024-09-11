@@ -1,0 +1,19 @@
+Student ID: 2429149
+Name: Kaye
+Level: Sophomore
+Major: CS
+GPA: 3.9
+Advisor ID: 1
+
+Faculty ID: 1
+Name: Jon
+Level: Professor
+Department: Game
+Advisee ID List: {FRONT}: [ 2429149 ] 
+
+Faculty ID: 2
+Name: Rene
+Level: Professor
+Department: CS
+Advisee ID List: 
+
